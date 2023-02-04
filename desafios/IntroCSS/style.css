@@ -1,2 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap');
+
+:root {
+
+    --azul: #012E40;
+    --azulado: #025159;
+    --azulzin: #038C8C;
+    --verdeaz: #03A696;
+    --laranja: #F28705;
+    --font-size: 1.3rem;
+        
+}
